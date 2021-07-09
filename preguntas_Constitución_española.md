@@ -1,21 +1,23 @@
-est sobre La Constitución Española.
-Antecedentes.
+# Test sobre La Constitución Española.
+# Antecedentes.
 1.- ¿En qué año se aprobó la primera Constitución española?
-1. 1810.
-2. 1812.
-3. 1814.
-4. 1815.
+1. 1810
+2. 1812
+3. 1814
+4. 1815
 <details>
   <summary>ver solución</summary>
+	
 	 B
 </details>
 2.- ¿Cuál de las siguientes Constituciones no existió en España?
-1. Constitución española de 1837.
-2. Constitución española de 1869.
-3. Constitución española de 1876.
-4. Constitución española de 1875.
+1. Constitución española de 1837
+2. Constitución española de 1869
+3. Constitución española de 1876
+4. Constitución española de 1875
 <details>
   <summary>ver solución</summary>
+	
 	 D
 </details>
 3.- ¿En qué año se aprobó la Constitución inmediata anterior a la actual de 1978?
@@ -25,6 +27,7 @@ Antecedentes.
 4. 1940.
 <details>
   <summary>ver solución</summary>
+	
 	 C
 </details>
 4.- De las siguientes Constituciones españolas, ¿cuál no establece la división de poderes?
@@ -34,6 +37,7 @@ Antecedentes.
 4. El Estatuto Real de 1834.
 <details>
   <summary>ver solución</summary>
+	
 	 D
 </details>
 5.- ¿En qué fecha fue proclamado Rey D. Juan Carlos I?
@@ -43,6 +47,7 @@ Antecedentes.
 4. 22 de noviembre de 1975.
 <details>
   <summary>ver solución</summary>
+	
 	 D
 </details>
 6.- ¿Ante qué órgano fue proclamado Rey D. Juan Carlos I?
@@ -52,6 +57,7 @@ Antecedentes.
 4. Ante el Consejo del Reino.
 <details>
   <summary>ver solución</summary>
+	
 	 C
 </details>
 7.- ¿En qué fecha fue promulgada la Ley para la Reforma Política?
@@ -61,6 +67,7 @@ Antecedentes.
 4. El 15 de diciembre de 1976.
 <details>
   <summary>ver solución</summary>
+	
 	 B
 </details>
 8.- ¿Cuál de las siguientes Constituciones extranjeras no se considera una influencia de la
@@ -71,6 +78,7 @@ Constitución de 1978?
 4. La Ley fundamental de Bonn de 1949.
 <details>
   <summary>ver solución</summary>
+	
 	 C
 </details>
 9.- ¿Cuál de las siguientes características no es predicable de la Constitución española de
@@ -81,6 +89,7 @@ Constitución de 1978?
 4. Todas las otras caracteristicas se consideran características de la Constitución española de
 <details>
   <summary>ver solución</summary>
+	
 	 D
 </details>
 10.- ¿En qué fecha fue publicada la Constitución española en el Boletín Oficial del Estado?
@@ -90,6 +99,7 @@ Constitución de 1978?
 4. Ninguna de las otras respuestas es correcta.
 <details>
   <summary>ver solución</summary>
+	
 	 C
 </details>
 11.- ¿En qué fecha fue promulgada la Constitución española de 1978?
@@ -99,6 +109,7 @@ Constitución de 1978?
 4. El 29 de diciembre de 1978.
 <details>
   <summary>ver solución</summary>
+	
 	 C
 </details>
 12.- ¿En qué fecha se creó la Comisión Constitucional que nombró a la ponencia encargada
@@ -109,6 +120,7 @@ de redactar la Constitución española de 1978?
 4. El 25 de julio de 1977.
 <details>
   <summary>ver solución</summary>
+	
 	 D
 </details>
 13.- ¿Ante quién sancionó el Rey la Constitución española de 1978?
@@ -118,6 +130,7 @@ de redactar la Constitución española de 1978?
 4. Ante el Gobierno y el Congreso de los Diputados.
 <details>
   <summary>ver solución</summary>
+	
 	 B
 </details>
 14.- ¿Quién aprobó la Constitución española de 1978?
@@ -127,6 +140,7 @@ de redactar la Constitución española de 1978?
 4. El Congreso de los Diputados.
 <details>
   <summary>ver solución</summary>
+	
 	 C
 </details>
 15.- ¿Quién ratificó la Constitución española de 1978?
@@ -136,6 +150,7 @@ de redactar la Constitución española de 1978?
 4. Ninguna de las otras respuestas es correcta.
 <details>
   <summary>ver solución</summary>
+	
 	 A
 </details>
 16.- ¿En qué fecha fue sancionada la Constitución española de 1978?
@@ -145,6 +160,7 @@ de redactar la Constitución española de 1978?
 4. El 29 de diciembre de 1978.
 <details>
   <summary>ver solución</summary>
+	
 	 C
 </details>
 17.- ¿Qué día entró en vigor la Constitución española de 1978?
@@ -154,6 +170,7 @@ de redactar la Constitución española de 1978?
 4. El 27 de diciembre de 1978.
 <details>
   <summary>ver solución</summary>
+	
 	 B
 </details>
 18.- De las siguientes partes, ¿cuál abre el texto de la Constitución española de 1978?
@@ -163,6 +180,7 @@ de redactar la Constitución española de 1978?
 4. Ninguna de las otras respuestas es correcta.
 <details>
   <summary>ver solución</summary>
+	
 	 C
 </details>
 19.- ¿Qué parte de la Constitución española de 1978 no tiene fuerza jurídica?
@@ -172,6 +190,7 @@ de redactar la Constitución española de 1978?
 4. El Preámbulo.
 <details>
   <summary>ver solución</summary>
+	
 	 D
 </details>
 20.- ¿De cuántos Títulos consta la Constitución española de 1978?
@@ -181,6 +200,7 @@ de redactar la Constitución española de 1978?
 4. De trece Títulos.
 <details>
   <summary>ver solución</summary>
+	
 	 A. Título Preliminar + 10 
 </details>
 21.- ¿A qué materia está dedicado el Título IV?
@@ -190,6 +210,7 @@ de redactar la Constitución española de 1978?
 4. Al Gobierno y a la Administración.
 <details>
   <summary>ver solución</summary>
+	
 	 D. ![image](https://user-images.githubusercontent.com/5049260/125115771-15592700-e0ec-11eb-9e9f-bb97ecd79da2.png)
 </details>
 22.- ¿Qué artículos comprende el Título Preliminar?
@@ -199,6 +220,7 @@ de redactar la Constitución española de 1978?
 4. Del 1 al 14.
 <details>
   <summary>ver solución</summary>
+	
 	B.
 </details>
 23.- ¿En qué Título de la Constitución española de 1978 encontramos regulado el Poder
@@ -209,7 +231,8 @@ Judicial?
 4. En el Título VII.
 <details>
   <summary>ver solución</summary>
-	C. ![image](https://user-images.githubusercontent.com/5049260/125115898-3faae480-e0ec-11eb-8927-79ca91f2e268.png)
+	
+	C ![image](https://user-images.githubusercontent.com/5049260/125115898-3faae480-e0ec-11eb-8927-79ca91f2e268.png)
 
 </details>
 24.- ¿Cuántas Disposiciones Adicionales tiene la Constitución española de 1978?
@@ -219,7 +242,8 @@ Judicial?
 4. Ninguna de las otras respuestas es correcta.
 <details>
   <summary>ver solución</summary>
-	C. ![image](https://user-images.githubusercontent.com/5049260/125115994-59e4c280-e0ec-11eb-8a23-c7af30829f92.png)
+	
+	![image](https://user-images.githubusercontent.com/5049260/125115994-59e4c280-e0ec-11eb-8a23-c7af30829f92.png)
 
 </details>
 25.- ¿Qué artículo abre el Título II de la Constitución española de 1978?
