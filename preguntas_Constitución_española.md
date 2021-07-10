@@ -1,7 +1,11 @@
 # Test sobre La Constitución Española.
 # Antecedentes.
+# Tema Nº 2. La Constitución Española. Derechos y Deberes Fundamentales.
+# Tema Nº 3. La Constitución Española. La Corona
+# Tema Nº 4. La Constitución Española. El Poder Legislativo: Cortes Generales.
+
 1.- ¿En qué año se aprobó la primera Constitución española?
-1. 1810
+1. 1810 
 2. 1812
 3. 1814
 4. 1815
@@ -417,8 +421,7 @@ la celebración de un referéndum?
 3. Cuando se pretenda la reforma del Título X de la Constitución.
 4. Todas las otras respuestas son correctas.
 
-Tema Nº 2. La Constitución Española.
-Derechos y Deberes Fundamentales.
+Tema Nº 2. La Constitución Española. Derechos y Deberes Fundamentales.
 51.- ¿En cuántos Capítulos se estructura el Título I de la Constitución española de 1978?
 1. En cuatro.
 2. En cinco.
